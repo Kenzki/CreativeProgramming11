@@ -1,4 +1,4 @@
-void setup() {
+void setdown() {
   size(520, 480);
 }
 
