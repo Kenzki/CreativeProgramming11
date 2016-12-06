@@ -4,7 +4,7 @@ void setup() {
 
 void draw() {
   if (mousePressed) {
-    fill(10);
+    fill(100);
   } else {
     fill(255);
   }
