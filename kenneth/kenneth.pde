@@ -1,10 +1,10 @@
-void setdown() {
+void setup() {
   size(520, 480);
 }
 
 void draw() {
   if (mousePressed) {
-    fill(0);
+    fill(10);
   } else {
     fill(255);
   }
