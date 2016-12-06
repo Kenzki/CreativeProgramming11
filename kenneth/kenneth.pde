@@ -8,5 +8,5 @@ void draw() {
   } else {
     fill(20);
   }
-  fill(mouseX, mouseY, 80, 80);
+  line(mouseX, mouseY, 80, 80);
 }
