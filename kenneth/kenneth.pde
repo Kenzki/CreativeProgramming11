@@ -1,5 +1,6 @@
 void setup() {
   size(520, 480);
+  stroke(0,0);
 }
 
 void draw() {
@@ -8,5 +9,5 @@ void draw() {
   } else {
     fill(20);
   }
-  line(mouseX, mouseY, 80, 80);
+  ellipse(mouseX, mouseY, 80, 80);
 }
